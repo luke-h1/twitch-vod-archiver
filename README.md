@@ -26,5 +26,15 @@ streamlink --version
 * Fill out the form and click on "Create Application"
 * Copy the client ID and secret into the `CLIENT_ID` and `CLIENT_SECRET` fields in the `.env` file
 * Enter the username who you want to start recording in the `.env` file
-* Install dependencies using `pipenv install`
-* Run `pipenv run python archiver.py` to run the script
+
+
+## Usage:
+
+```bash 
+# install dependencies 
+pipenv install 
+
+# run script 
+pipenv run python archiver.py
+```
+

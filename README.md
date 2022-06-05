@@ -18,7 +18,7 @@ streamlink --version
 ```
 
 * create a `.env` file in the root of the project (see [.env.example](.env.example) for required variables)
-* Go to twitch.tv and register for an account if you don't have on already 
+* Go to twitch.tv and register for an account if you don't have one already 
 * Go to the settings page and click on the "Security" tab
 * Enable 2FA (this is required by Twitch in order to generate a twitch applications which will allow you to generate secret keys)
 * visit the [twitch developer portal](https://dev.twitch.tv/dashboard/apps) and create an application
